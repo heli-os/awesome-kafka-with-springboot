@@ -15,7 +15,7 @@ pluginManagement {
     }
 }
 
-rootProject.name = "awesome-kotlin-springboot-multi-module"
+rootProject.name = "awesome-kafka-with-springboot"
 include("commons")
 include("commons:model")
 include("commons:common-util")
