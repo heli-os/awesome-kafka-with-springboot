@@ -1,5 +1,7 @@
 ## Summary
 
+![awesome-kafka-with-springboot](https://socialify.git.ci/heli-os/awesome-kafka-with-springboot/image?description=1&language=1&name=1&owner=1&stargazers=1&theme=Dark)
+
 Basics for starting Kotlin SpringBoot Multi Module
 
 ## Overall Structure
