@@ -5,4 +5,6 @@ dependencies {
     implementation(project(":commons:persistence-database"))
     implementation(project(":commons:health-check"))
     implementation(project(":commons:logback-appender"))
+
+    implementation("org.springframework.kafka:spring-kafka")
 }
