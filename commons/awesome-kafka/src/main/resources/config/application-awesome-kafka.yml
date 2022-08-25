@@ -1,0 +1,4 @@
+awesome-kafka:
+  bootstrap-server-host: localhost:29092
+  topics:
+    payment: awesome-kafka.payment.v1
