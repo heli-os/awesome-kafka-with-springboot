@@ -22,5 +22,7 @@ include("commons:common-util")
 include("commons:health-check")
 include("commons:persistence-database")
 include("commons:logback-appender")
+include("commons:consumer-logger")
 
-include("application-consumer")
+include("commons:awesome-kafka")
+include("awesome-kafka-consumer")

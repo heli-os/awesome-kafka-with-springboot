@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: application
+  profiles:
+    include:
+      - persistence-database
+      - awesome-kafka
+
+awesome-kafka:
+  consumer:
+    group-id: awesome-kafka-consumer
+    enable-auto-commit: true
+    auto-offset-reset: latest
+
+server:
+  port: 10001
